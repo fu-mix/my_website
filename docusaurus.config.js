@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'fu-mix', // Usually your GitHub org/user name.
-  projectName: 'fu-mix.github.io', // Usually your repo name.
+  projectName: 'my_website', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
