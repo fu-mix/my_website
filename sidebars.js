@@ -38,7 +38,7 @@ module.exports = {
         {
           type: 'category',
           label: 'Nested item',
-          items: ['hellow'],
+          items: ['guide/ellow'],
         }
       ]
     }
