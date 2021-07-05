@@ -33,7 +33,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Nested item',
-      items: ['guide/ellow'],
+      items: ['guide/hellow'],
     }
   ]
 };
