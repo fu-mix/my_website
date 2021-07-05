@@ -32,15 +32,8 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Spec',
-      items:[
-        'guide',
-        {
-          type: 'category',
-          label: 'Nested item',
-          items: ['guide/ellow'],
-        }
-      ]
+      label: 'Nested item',
+      items: ['guide/ellow'],
     }
   ]
 };
