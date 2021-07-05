@@ -1,4 +1,4 @@
-# Greeding!!
+# Greeting!!
 
 ### test
 
