@@ -26,19 +26,19 @@ module.exports = {
    */
   docs: [
     {
-      type: "category",
-      label: "Getting Started",
-      items: ["greeting"],
+      type: 'category',
+      label: 'Getting Started',
+      items: ['greeting'],
     },
     {
-      type: "category",
-      label: "Spec",
-      item:[
-        "guide",
+      type: 'category',
+      label: 'Spec',
+      items:[
+        'guide',
         {
-          type: "category",
-          label: "Nested item",
-          items: ["hellow"],
+          type: 'category',
+          label: 'Nested item',
+          items: ['hellow'],
         }
       ]
     }
